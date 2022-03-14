@@ -10,7 +10,7 @@
 🎓&nbsp;Im Currently in 8th semester at **Mikroskil University**.\
 🌱 &nbsp;I'm on track for learning more about Cloud Computing at **Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka**.\
 ✍️ &nbsp;In my free time, I play games and listening to music.\
-📫 &nbsp;Feel Free To Email me at syahidandinasgi1@gmail.com.\
+📫 &nbsp;Feel Free To Email me at syahidandinasgi1@gmail.com
 
 
 ### 🛠 &nbsp;Tech Stack

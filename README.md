@@ -40,8 +40,8 @@
 <p>
 <a href="https://www.linkedin.com/in/dandynst/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="syahidandinasgi1@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/syahidandy"><img src="https://img.shields.io/badge/-@syahidandy-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/syahidandy/"><img src="https://img.shields.io/badge/-syahidandy-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://instagram.com/syahidandy"><img src="https://img.shields.io/badge/-@syahidandy-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://www.facebook.com/syahidandy/"><img src="https://img.shields.io/badge/-syahidandy-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> &nbsp;
 
 <!--
 
@@ -56,11 +56,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
-
-
-
-

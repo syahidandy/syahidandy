@@ -6,9 +6,9 @@
 ### &nbsp;About Me
 
 👀 &nbsp;I’m interested in Front-end, Back-end, and Fullstack Developer.\
-💻 &nbsp;I'm in **Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka** participant persuing **Cloud Computing Learning Path**.\
+💻 &nbsp;I'm in **ACCENTURE** with role as **SAP Developer**.\
 🎓&nbsp;Im Currently in 8th semester at **Mikroskil University**.\
-🌱 &nbsp;I'm on track for learning more about Cloud Computing at **Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka**.\
+🌱 &nbsp;I'm on track for learning more about BTP Enablement at **ACCENTURE**.\
 ✍️ &nbsp;In my free time, I play games and listening to music.\
 📫 &nbsp;Feel Free To Email me at syahidandinasgi1@gmail.com
 

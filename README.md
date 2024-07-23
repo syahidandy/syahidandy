@@ -7,7 +7,7 @@
 
 👀 &nbsp;I’m interested in Front-end, Back-end, and Fullstack Developer.\
 💻 &nbsp;I'm in **ACCENTURE** with role as **SAP Developer**.\
-🎓&nbsp;Im Currently in 8th semester at **Mikroskil University**.\
+🎓&nbsp;I was graduated from **Mikroskil University** with bachelor degree in **Computer Science**.\
 🌱 &nbsp;I'm on track for learning more about BTP Enablement at **ACCENTURE**.\
 ✍️ &nbsp;In my free time, I play games and listening to music.\
 📫 &nbsp;Feel Free To Email me at syahidandinasgi1@gmail.com
